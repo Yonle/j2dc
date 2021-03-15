@@ -20,6 +20,8 @@ BOT_TOKEN=
 BOT_PREFIX=!
 ```
 
+## ✨ Magic
+You can execute codes by entering `eval:` before javascript code.
 ## Community
 - [Discord](https://quickstream.yonle.repl.co/discord)
 - [Telegram](https://t.me/yonlecoder)

@@ -28,6 +28,11 @@ It's very easy to use this project and run it at your bots. Simply modify `comma
 ```
 ## ✨ Magic
 You can execute codes by entering `eval:` before javascript code.
+```js
+{
+  "Test": "eval: message.say('This is a command that executed with javascript code')"
+}
+```
 ## Community
 - [Discord](https://quickstream.yonle.repl.co/discord)
 - [Telegram](https://t.me/yonlecoder)

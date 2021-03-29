@@ -23,7 +23,7 @@ var refreshCommand = (() => {
 
 if (!BOT_TOKEN) {
 	console.error("[TOKEN] Missing Token.");
-	process.exit(1);
+	return process.exit(1);
 } else if (!BOT_PREFIX) {
 	console.warn("[PREFIX] No prefix provided. Using ! as default");
 }

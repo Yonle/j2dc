@@ -19,7 +19,13 @@ Rename `.env.example` into `.env`, And fill:
 BOT_TOKEN=
 BOT_PREFIX=!
 ```
-
+## How to use
+It's very easy to use this project and run it at your bots. Simply modify `commands.json` file and:
+```
+{
+  "ping": "Pong!"
+}
+```
 ## ✨ Magic
 You can execute codes by entering `eval:` before javascript code.
 ## Community
